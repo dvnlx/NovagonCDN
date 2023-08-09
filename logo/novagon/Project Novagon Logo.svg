@@ -1,0 +1,38 @@
+<svg width="460" height="460" viewBox="0 0 460 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Project Novagon Logo">
+<rect width="460" height="460" fill="white"/>
+<g id="Group 37973">
+<g id="Vector" filter="url(#filter0_dii_1908_6021)">
+<path d="M302.968 242.161V164.162C302.968 160.224 299.775 157.032 295.838 157.032H217.839M133 133L327.58 327.58M157.032 217.839V295.838C157.032 299.775 160.224 302.968 164.162 302.968H242.161" stroke="url(#paint0_linear_1908_6021)" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dii_1908_6021" x="107" y="83" width="285.58" height="282.58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="21" dy="-6"/>
+<feGaussianBlur stdDeviation="14"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1908_6021"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1908_6021" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-10" dy="4"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_1908_6021"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="6.21" dy="-5.98"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="effect2_innerShadow_1908_6021" result="effect3_innerShadow_1908_6021"/>
+</filter>
+<linearGradient id="paint0_linear_1908_6021" x1="200" y1="124" x2="200" y2="328" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F000BB"/>
+<stop offset="1" stop-color="#00B0F0"/>
+</linearGradient>
+</defs>
+</svg>
